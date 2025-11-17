@@ -166,7 +166,7 @@ visualize_denoising(model, test_loader)
 
 ## Original vs Noisy Vs Reconstructed Image
 
-![Uploading Screenshot 2025-11-17 182410.png…]()
+<img width="509" height="154" alt="Screenshot 2025-11-17 182410" src="https://github.com/user-attachments/assets/5da19f68-2796-4840-a1c3-62c16654b817" />
 
 
 ## RESULT
